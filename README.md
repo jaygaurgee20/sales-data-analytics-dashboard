@@ -1,32 +1,17 @@
-# 📊 Sales Data Analytics Dashboard
+Analyzing Amazon Electronics Sales Data with Python
+Description:
+This project delves into the world of online electronics sales by analyzing a dataset from Amazon. Using Python libraries and guided by data science principles, we'll uncover valuable insights into customer behavior, product performance, and sales trends. This exploration will aid in understanding market dynamics and potentially inform strategic business decisions.
 
-## 📌 Project Overview
-This project focuses on analyzing sales data to identify trends, top-performing products, and customer insights.
-It demonstrates an end-to-end analytics workflow commonly used in business and consulting environments.
+Technologies:
+Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
-## 🛠 Tools & Skills Used
-- Microsoft Excel (Dashboards, Pivot Tables)
-- SQL (Joins, Aggregations, Filters)
-- Python (Pandas, Matplotlib)
-- Data Cleaning & Exploratory Data Analysis (EDA)
+Dataset:
+The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
 
-## 📈 Key Analysis
-- Monthly and yearly sales trend analysis
-- Top products and revenue contribution
-- Region-wise sales performance
-- Growth vs decline identification
+Please note that you may need to create a free Kaggle account to access the dataset.
 
-## 📊 Dashboard
-An interactive Excel dashboard was created to visualize KPIs:
-- Total Revenue
-- Monthly Growth
-- Category-wise Sales
-- Regional Performance
-
-## 💡 Business Insights
-- A small percentage of products contribute to majority of revenue
-- Seasonal patterns observed in monthly sales
-- Certain regions underperform consistently
-
-## 🎯 Outcome
-This project showcases my ability to transform raw data into meaningful insights to support data-driven decision making.
+Task List:
+ Import libraries and load data
+ Clean and preprocess data
+ Conduct exploratory data analysis
+ Draw conclusions and insights
