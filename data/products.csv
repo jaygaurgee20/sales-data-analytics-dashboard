@@ -1,0 +1,7 @@
+product_id,product_name,product_category
+P101,CRM Software,Software
+P102,Accounting Tool,Software
+P201,Laptop,Hardware
+P202,Monitor,Hardware
+P301,Cloud Storage,Services
+P401,IT Support,Services
