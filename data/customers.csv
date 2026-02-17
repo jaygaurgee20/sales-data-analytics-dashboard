@@ -1,8 +1,0 @@
-customer_id,customer_name,industry,city,customer_segment
-C001,Tata Solutions,Manufacturing,Mumbai,Enterprise
-C002,FinEdge Pvt Ltd,Finance,Bengaluru,SMB
-C003,QuickBuy Retail,Retail,Delhi,Consumer
-C004,VisionTech,IT Services,Pune,SMB
-C005,Alpha Infra,Construction,Ahmedabad,Enterprise
-C006,MarketGrow,Marketing,Noida,SMB
-C007,HealthPlus,Healthcare,Chennai,Enterprise
